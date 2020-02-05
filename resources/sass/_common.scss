@@ -1,0 +1,13 @@
+html {
+    min-height: 100%;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #F6F8FC;
+    @apply .text-gray-700
+}
+
+#app {
+    min-height: 100vh;
+}
